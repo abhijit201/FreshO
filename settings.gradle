@@ -1,0 +1,3 @@
+rootProject.name = "FreshOrganic"
+include ':app'
+include ':APIlib'
